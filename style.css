@@ -1,0 +1,77 @@
+*{
+    text-align: center;
+}
+
+body {
+    font-family: "Roboto Mono", monospace;
+    min-width: 200px;
+    background-image: url("https://cdn.create.vista.com/api/media/medium/232757814/stock-photo-football-field-green-grass-black?token=");
+    background-color: #111;
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    justify-content: center;
+    height: 100vh; 
+    margin: 0; 
+}
+
+    .container {
+        text-align: center;
+        padding: 1px;
+        height: 100vh;
+    }
+    
+    .page-title {
+        color: #ffffff;
+        margin: 0 0 5px;
+    }
+    
+    .page-subtitle {
+        color: #ffffff;
+        margin-top: 5px;
+    }
+    
+    .page-logo {
+        width: 200px;
+    }
+    
+    .alura-logo {
+        width: 40px;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    table {
+        border: 2px solid white;
+        border-collapse: collapse;
+    }
+    
+    h1 {
+        color: white;
+    }
+    
+    th,
+    tr,
+    td {
+        border: solid 1px white;
+        color: white;
+        width: 235px;
+        
+    }
+    
+    button {
+        background-color: transparent;
+        color: #ffffff;
+    }
+    
+    footer {
+        margin-top: auto;
+        text-align: center;
+        padding: 10px;
+        background-color:transparent;
+        width: 100%; 
+        position: absolute;
+        bottom: 0; 
+        color: #ffffff;
+    }
