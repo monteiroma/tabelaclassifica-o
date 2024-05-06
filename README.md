@@ -10,5 +10,5 @@ Tecnologias usadas:
 - JavaScript
 
 
-Projeto desenvolvido em aula pela ImersãoDev da Alura, sendo ela modificada para colocar e retirar as participantes e pontuação a qualquer momento,
-afim de ficar em tempo real
+Projeto desenvolvido em aula pela ImersãoDev da Alura, sendo ela modificada por mim para colocar e retirar as participantes e pontuação a qualquer momento,
+afim de ficar em tempo real e mais avançada
